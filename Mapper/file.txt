@@ -1,0 +1,23 @@
+[{org.test.Student
+"birthday" = 0,
+"this" = "443308702",
+"name" = "Petya",
+"rating" = d"99.5",
+"пол" = c"M"
+}
+,{org.test.Student
+"birthday" = 0,
+"this" = "443308702",
+"name" = "Petya",
+"rating" = d"99.5",
+"пол" = c"M"
+}
+
+]
+{org.test.Student
+"birthday" = 0,
+"this" = "443308702",
+"name" = "Petya",
+"rating" = d"99.5",
+"пол" = c"M"
+}
